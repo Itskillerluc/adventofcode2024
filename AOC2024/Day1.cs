@@ -1,7 +1,4 @@
-﻿using System.Reflection;
-using AOC2024.obj;
-
-namespace AOC2024;
+﻿namespace AOC2024;
 
 public static class Day1
 {
@@ -32,7 +29,7 @@ public static class Day1
     }
 
     public static async Task Part2()
-    {
+    { 
         var input = await Util.Read("day1");
         
         var subLists = input.Select(line => line.Split("   ")).ToList();

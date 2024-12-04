@@ -13,3 +13,7 @@ C:\Users\lvgra\Documents\programmeren\anders\adventofcode\AOC2024\obj\Debug\net8
 C:\Users\lvgra\Documents\programmeren\anders\adventofcode\AOC2024\obj\Debug\net8.0\AOC2024.genruntimeconfig.cache
 C:\Users\lvgra\Documents\programmeren\anders\adventofcode\AOC2024\obj\Debug\net8.0\ref\AOC2024.dll
 C:\Users\lvgra\Documents\programmeren\anders\adventofcode\AOC2024\bin\Debug\net8.0\inputs\day1.txt
+C:\Users\lvgra\Documents\programmeren\anders\adventofcode\AOC2024\obj\Debug\net8.0\AOC2024.sourcelink.json
+C:\Users\lvgra\Documents\programmeren\anders\adventofcode\AOC2024\bin\Debug\net8.0\inputs\day2.txt
+C:\Users\lvgra\Documents\programmeren\anders\adventofcode\AOC2024\bin\Debug\net8.0\inputs\day3.txt
+C:\Users\lvgra\Documents\programmeren\anders\adventofcode\AOC2024\bin\Debug\net8.0\inputs\day4.txt
